@@ -4,7 +4,7 @@
 #include "PY_LCS.h"
 #include "PY_TEST_UTIL.h"
 
-int longest_list_substring(char *pStr1, char *pStr2)
+int longest_undo_substring(char *pStr1, char *pStr2)
 {
 	int strLen1 = 0, strLen2 = 0;
 	int **pTable = NULL;
