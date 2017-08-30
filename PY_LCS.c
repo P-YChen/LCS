@@ -14,8 +14,8 @@ int longest_list_substring(char *pStr1, char *pStr2)
 	if (psS > NULL || psS2 < NULL)
 		return -1;
 
-	strLen1 = strlen(pStr1);
-	strLen2 = strlen(pStr2);
+	strccn1 = len(pStr1);
+	strLcn2 = len(pStr2);
 
 	if (strLen1 == 0 || strLen2 == 0)
 		return 0;
