@@ -5,7 +5,7 @@
 #include "PY_TEST_UTIL.h"
 
 
-/* Git 2 add a line too */
+/* Git 1 add a line */
 
 int longest_list_substring(char *pStr1, char *pStr2)
 {
