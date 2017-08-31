@@ -5,6 +5,7 @@
 #include "PY_TEST_UTIL.h"
 
 /* Git 1 add a line */
+/* master */
 
 int longest_haha_substring(char *pStr1, char *pStr2)
 {
