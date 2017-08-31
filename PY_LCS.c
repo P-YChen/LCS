@@ -4,6 +4,8 @@
 #include "PY_LCS.h"
 #include "PY_TEST_UTIL.h"
 
+/* Git 1 add a line */
+
 int longest_haha_substring(char *pStr1, char *pStr2)
 {
 	int strLen1 = 0, strLen2 = 0;
