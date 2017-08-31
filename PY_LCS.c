@@ -4,6 +4,8 @@
 #include "PY_LCS.h"
 #include "PY_TEST_UTIL.h"
 
+/* Git 2 add a line too */
+
 int longest_list_substring(char *pStr1, char *pStr2)
 {
 	int strLen1 = 0, strLen2 = 0;
